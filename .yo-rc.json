@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "de.exelxp.jhipster.demo1",
+    "packageFolder": "de/exelxp/jhipster/demo1",
+    "serverPort": 9090,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "YjAwNzg4YWE0MGRkNDdkMzQ2ZDBjYjIyMmZkZTM3NTg4NjI2NjMwYzdmYWJkMDQ0MjM2MmFkOGQ3MWRlOTBlMmMzZDJkNGQ5YTA3NTg3ZGExZWQwMDYzZjRmNzcxNmNkOGM5ZWUyOTM1MGVhYTc3MGU3OWU3NTk0ZmQ2YmJmY2E=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Michael-Exel-6767",
+  "repository-name": "jhipster-sample-application"
+}
